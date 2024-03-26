@@ -56,9 +56,7 @@ body
 {
     text-shadow: 0 0 25px var(--main-color); 
 }
-.navbar {
-    display: none; /* Başlangıçta menü gizli olacak */
-  }
+
   
   .navbar.active {
     display: block; /* Menü açık olduğunda görünür olacak */
