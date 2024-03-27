@@ -711,10 +711,6 @@ span
         border-bottom: 2px solid var(--main-color);
         display: none;
     }
-    .navar.active
-    {
-        display: block;
-    }
     .navbar a
     {
         display: block;
